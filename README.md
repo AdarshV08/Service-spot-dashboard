@@ -92,16 +92,6 @@ To explore the full interactive capabilities of this Power BI report:
 
 ---
 
-## 📁 Project Files
-
-```
-├── Power BI Final Project.pbix    # Complete Power BI report file
-├── README.md                       # This file
-└── image.png                       # Dashboard screenshot
-```
-
----
-
 ## 🎓 Learning Outcomes
 
 Through this project, I demonstrated proficiency in:
@@ -118,9 +108,8 @@ Through this project, I demonstrated proficiency in:
 
 I'm currently seeking **Data Analyst**, **Business Intelligence**, or **Power BI Developer** opportunities.
 
-- **LinkedIn:** [Your LinkedIn Profile URL]
-- **Email:** [your.email@example.com]
-- **GitHub:** [Your GitHub Profile]
+- **LinkedIn:** [https://www.linkedin.com/in/adarshvardhanj/]
+- **Email:** [janumalaadarshvardhan@gmail.com]
 
 ---
 
